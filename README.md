@@ -1,9 +1,7 @@
-# Welcome to Loco :train:
+# Loco Admin
 
-[Loco](https://loco.rs) is a web and API framework running on Rust.
-
-This is the **SaaS starter** which includes a `User` model and authentication based on JWT.
-It also include configuration sections that help you pick either a frontend or a server-side template set up for your fullstack server.
+A full-stack admin starter for [Loco.rs](https://loco.rs) with a React frontend,
+authentication, dashboard, CRUD examples, and reusable shadcn/ui components.
 
 ## Environment configuration
 
